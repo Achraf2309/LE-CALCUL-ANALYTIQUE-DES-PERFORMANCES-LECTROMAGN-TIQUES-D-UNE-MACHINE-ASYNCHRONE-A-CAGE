@@ -1,0 +1,2 @@
+# LE-CALCUL-ANALYTIQUE-DES-PERFORMANCES-LECTROMAGN-TIQUES-D-UNE-MACHINE-ASYNCHRONE-A-CAGE
+Application Python (PyQt5) de modélisation analytique 2D et simulation électromagnétique d'une machine asynchrone à cage. Résolution des équations de Maxwell par sous-domaines (entrefer, encoches, barres) pour calculer A_z, B_r, B_θ, currents et couple. Extraction des paramètres du circuit équivalent R'2(g), N'2(g) et validation par simulation FEMM
